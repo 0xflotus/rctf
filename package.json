@@ -61,7 +61,7 @@
   "devDependencies": {
     "@types/content-disposition": "0.5.3",
     "@types/mailgun-js": "0.22.10",
-    "@types/mustache": "4.0.1",
+    "@types/mustache": "4.1.1",
     "@types/nodemailer": "6.4.0",
     "@types/pg": "7.14.5",
     "@types/uuid": "8.3.0",
