@@ -82,7 +82,7 @@
     "eslint-plugin-ava": "10.5.0",
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-promise": "4.3.1",
     "eslint-plugin-standard": "4.0.1",
     "faker": "5.1.0",
     "get-port": "5.1.1",
