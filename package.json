@@ -107,7 +107,7 @@
     "snarkdown": "1.2.2",
     "supertest": "4.0.2",
     "svg-sprite-loader": "5.0.0",
-    "type-fest": "0.16.0",
+    "type-fest": "0.21.3",
     "typescript": "3.9.7"
   },
   "description": "rctf is RedpwnCTF's CTF platform. It is developed and maintained by the [redpwn](https://redpwn.net) CTF team.",
