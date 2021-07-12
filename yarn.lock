@@ -1227,10 +1227,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/mailgun-js@0.22.10":
-  version "0.22.10"
-  resolved "https://registry.yarnpkg.com/@types/mailgun-js/-/mailgun-js-0.22.10.tgz#e0584fc225f2a41157ed0a00a3bc084880d5a49b"
-  integrity sha512-5P9OPXAW9pOmyl32mcSh77JYR17d6bfMRwoARL9MjzAHPP4G+BDlP6smMYCaX2KWY74Y+Q+gVN6y8MHMBPuD7w==
+"@types/mailgun-js@0.22.12":
+  version "0.22.12"
+  resolved "https://registry.yarnpkg.com/@types/mailgun-js/-/mailgun-js-0.22.12.tgz#b0dcb590b56ef3e599ab1f262882493d318e5510"
+  integrity sha512-fTjuh2mOPoJF2BN0QAhE5iPOBls333KIJrmrrJHObMDuBCgEfaENLX2LH1FjKqhfuWfGotKOfPFZMuSok5Ow7g==
   dependencies:
     "@types/node" "*"
     form-data "^2.5.0"
